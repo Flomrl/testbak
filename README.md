@@ -2,6 +2,8 @@
 
 Pour réaliser ce projet, j'ai utilisé  NodeJs et le framework ExpressJs avec Typescript.
 
+Dans le fichier authServices.ts, vous pouvez appeler la fonction fetch avec trois paramètres le path, options et un validator. La fonction fetch effectue une requête HTTP et utilise le validateur pour valider les données retournées par la requête.
+
 # Pré-requis
 
 Node version >= 18
